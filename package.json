@@ -1,0 +1,9 @@
+
+{
+"scripts": {
+    "node": "./packages/node_modules/.bin/node",
+    "start": "node .",
+    "node-version": "npm run node -- -v", 
+    "install": "npm run node install --"
+  }
+}
